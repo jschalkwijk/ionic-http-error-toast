@@ -1,0 +1,12 @@
+{
+  "name": "ionic-http-error-toast",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.1.6",
+    "@angular/core": "^10.1.6",
+    "@ionic/angular": "^5.5.2"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
