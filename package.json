@@ -1,5 +1,5 @@
 {
-  "name": "ionic-http-error-toast",
+  "name": "@jorns/ionic-http-error-toast",
   "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^10.1.6",
@@ -8,5 +8,26 @@
   },
   "dependencies": {
     "tslib": "^2.0.0"
-  }
+  },
+  "description": "A http error interceptor that displays a configurable Ionic toast with a custom or predefined error message.",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschalkwijk/ionic-http-error-toast.git"
+  },
+  "keywords": [
+    "ionic",
+    "toast",
+    "interceptor",
+    "http"
+  ],
+  "author": "Jorn Schalkwijk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jschalkwijk/ionic-http-error-toast/issues"
+  },
+  "homepage": "https://github.com/jschalkwijk/ionic-http-error-toast#readme"
 }

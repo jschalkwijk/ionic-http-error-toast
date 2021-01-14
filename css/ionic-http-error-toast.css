@@ -13,6 +13,6 @@
   --ion-safe-area-bottom: 46px;
 };
 
-.ionic-toast-below-header {
+.ionic-toast-below-appbar {
   --ion-safe-area-top: 48px;
 };
