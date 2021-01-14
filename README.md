@@ -63,7 +63,7 @@ Available css classes:
     .ionic-toast-below-header
     
 Import this in your global.scss stylesheet:
-    @import "~@jorns/ionic-http-error-toast/css/ionic-http-error-toast.css";
+    @import "~@jorns/ionic-http-error-toast/css/ionic-http-error-toast.scss";
 
 Or in your angular.json styles array:
     "styles": [
