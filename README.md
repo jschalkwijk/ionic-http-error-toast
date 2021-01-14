@@ -21,7 +21,7 @@ You can pass in your own httpErrorMessages and status codes to ignore. If you wa
 to display error messages send from the server set useResponseError=true. The default
 value is false;
 Options takes an ToastOptions object with the same properties you would pass to a toast in Ionic.
-!!Important. Do not add a message property to this object.
+
 
     IonicHttpErrorToastModule.forRoot({
           httpErrors: {

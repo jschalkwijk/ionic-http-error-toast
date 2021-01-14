@@ -1,0 +1,18 @@
+.ionic-toast-rectangle {
+  --width: 100%;
+  --box-shadow: none;
+  --start: 0;
+  --end: 0;
+  --border-radius: none;
+  --ion-safe-area-bottom: -8px;
+  --ion-safe-area-top: -8px;
+  --min-height: 56px;
+};
+
+.ionic-toast-above-tabbar {
+  --ion-safe-area-bottom: 46px;
+};
+
+.ionic-toast-below-header {
+  --ion-safe-area-top: 48px;
+};
